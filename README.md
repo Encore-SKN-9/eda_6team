@@ -220,15 +220,27 @@
         - '제품명당 판매량'과 리뷰간의 상관관계 시각화
 
 ![image](https://github.com/user-attachments/assets/34a2801c-d5e5-4886-9f30-b937de4888ec)
+
 ![image](https://github.com/user-attachments/assets/283c8b25-de6e-4ff4-ae47-de84da6fbbf8)
+
+- 나이키 평점별 평균 리뷰수
 ![image](https://github.com/user-attachments/assets/25fed7df-1e06-42b3-a8ae-ac45dfba1791)
+
+- 아디다스 평점별 평균 리뷰수
 ![image](https://github.com/user-attachments/assets/a72e82db-509f-401c-94cd-60338aadb27b)
+
 ![image](https://github.com/user-attachments/assets/3060da22-1de2-4bdf-bdeb-4585ed45b118)
+
 ![image](https://github.com/user-attachments/assets/3f248514-3162-47f8-9248-fd5e539ab4e5)
+
 ![image](https://github.com/user-attachments/assets/d4164619-47fb-4a8c-8e6e-2733f56870d4)
+
 ![image](https://github.com/user-attachments/assets/791bb270-1f73-4153-96a1-c17e34d47a4a)
+
 ![image](https://github.com/user-attachments/assets/750bd024-3a1d-4f6e-860d-ca676cae000b)
+
 ![image](https://github.com/user-attachments/assets/718e2cbe-2dfc-471d-83d3-3e449ac14026)
+
 ![image](https://github.com/user-attachments/assets/eef349c8-fa28-4c40-8ac5-8a879c710cef)
 
 

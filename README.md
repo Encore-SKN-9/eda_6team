@@ -136,28 +136,35 @@
 
 
 - 카운트, 가격별 총 계수
-![image](https://github.com/user-attachments/assets/)
+![count_price_data](https://github.com/user-attachments/assets/4025f13b-8cf4-4402-9a8b-c3a6d6fc8d2b)
 
 - 가격대로 범위를 나눈 카운트 수
-![image](https://github.com/user-attachments/assets/)
+![price_count](https://github.com/user-attachments/assets/1b17f7a0-e116-4354-8a34-19a60514ff94)
+
 
 - 사람들이 많이 산 제품 top5
-![image](https://github.com/user-attachments/assets/)
+![popular_data](https://github.com/user-attachments/assets/7a1df0c5-b8e9-4c5b-9d36-16bdbe8e6e40)
+
 
 - 사람들이 많이 산 제품의 가격 top5
-![image](https://github.com/user-attachments/assets/)
+![popular_price](https://github.com/user-attachments/assets/17caffd8-a29c-4a97-b87a-d47f94cbd238)
 
-- 평점이 높은 제품 top5
-![image](https://github.com/user-attachments/assets/)
 
-- 평점이 높은 제품의 가격 top5
-![image](https://github.com/user-attachments/assets/)
+- 평점이 높은 제품 top10
+![rating_data](https://github.com/user-attachments/assets/a6cf991a-734f-4658-878b-10c68bf7407d)
 
-- 리뷰가 많은 제품 top5
-![image](https://github.com/user-attachments/assets/)
 
-- 리뷰가 많은 제품의 가격 top5
-![image](https://github.com/user-attachments/assets/)
+- 평점이 높은 제품의 가격 top10
+![rating_price](https://github.com/user-attachments/assets/38c00ca5-5760-4caa-9312-7ad9aa3a2b18)
+
+
+- 리뷰가 많은 제품 top10
+![review_data](https://github.com/user-attachments/assets/52953539-f790-43cb-9dfb-aebdc5754580)
+
+
+- 리뷰가 많은 제품의 가격 top10
+![review_price](https://github.com/user-attachments/assets/e2ab9adb-9885-431c-ad8d-b972ce1f4c7b)
+
   
 
 ### 분석2 결과 및 인사이트 도출

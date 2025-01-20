@@ -219,8 +219,10 @@
         - 리뷰수 상위 10개 제품 시각화
         - '제품명당 판매량'과 리뷰간의 상관관계 시각화
 
+- 나이키 히트맵 상관계수 시각화
 ![image](https://github.com/user-attachments/assets/34a2801c-d5e5-4886-9f30-b937de4888ec)
 
+- 아디다스 히트맵 상관계수 시각화
 ![image](https://github.com/user-attachments/assets/283c8b25-de6e-4ff4-ae47-de84da6fbbf8)
 
 - 나이키 평점별 평균 리뷰수
@@ -229,12 +231,14 @@
 - 아디다스 평점별 평균 리뷰수
 ![image](https://github.com/user-attachments/assets/a72e82db-509f-401c-94cd-60338aadb27b)
 
+- 아디다스 인기순위별 제품추천
 ![image](https://github.com/user-attachments/assets/3060da22-1de2-4bdf-bdeb-4585ed45b118)
 
 ![image](https://github.com/user-attachments/assets/3f248514-3162-47f8-9248-fd5e539ab4e5)
 
 ![image](https://github.com/user-attachments/assets/d4164619-47fb-4a8c-8e6e-2733f56870d4)
 
+- 나이키 인기순위별 제품추천
 ![image](https://github.com/user-attachments/assets/791bb270-1f73-4153-96a1-c17e34d47a4a)
 
 ![image](https://github.com/user-attachments/assets/750bd024-3a1d-4f6e-860d-ca676cae000b)

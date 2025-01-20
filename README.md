@@ -125,28 +125,48 @@
 ### 4-4-2. 분석2: 가격별 (진행자: 이세진)
 
 ### 분석방향 설정
-- 사람들이 우리 사이트에 신발의 가격을 보기 위해서 찾아봐야할 것은
-    - 먼저 무슨 신발이 있는지가 제일 궁금할것이다.
+- 사람들이 신발의 가격과 함께 가장 중요하게 보는 것은 어느 것이 인기가 있는가이다.
+    - 먼저 무슨 신발이 있는지가 제일 궁금할것이고,
     - 무슨 신발이 어느정도 있는지 확인한 후에는
     - 어떤 신발이 인기가 있고 그 가격이 얼마인지 확인을 할것이다.
-        - 그에 따라 가장 잘 나가는 제품, 평점이 높은 제품, 리뷰가 많은 제품을 각 가격별로 나누어 top5, top10인 데이터를 추출해서 시각화 자료로 나타냈다.
+        - 그에 따라 가장 잘 나가는 제품
+        - 평점이 높은 제품
+        - 리뷰가 많은 제품
+        - 각 가격별로 나누어 top5, top10인 데이터를 추출해서 시각화 자료로 나타냈다.
 
-	- 카운트, 가격별 통계
-	- 가격대로 범위를 나눈 카운트 수
-	- 사람들이 많이 산 제품 top5
-	- 사람들이 많이 산 제품의 가격 top5
-	- 평점이 높은 제품 top5
-	- 평점이 높은 제품의 가격 top5
-	- 리뷰가 많은 제품 top5
-	- 리뷰가 많은 제품의 가격 top5
 
+- 카운트, 가격별 총 계수
 ![image](https://github.com/user-attachments/assets/)
+
+- 가격대로 범위를 나눈 카운트 수
 ![image](https://github.com/user-attachments/assets/)
+
+- 사람들이 많이 산 제품 top5
 ![image](https://github.com/user-attachments/assets/)
+
+- 사람들이 많이 산 제품의 가격 top5
 ![image](https://github.com/user-attachments/assets/)
+
+- 평점이 높은 제품 top5
+![image](https://github.com/user-attachments/assets/)
+
+- 평점이 높은 제품의 가격 top5
+![image](https://github.com/user-attachments/assets/)
+
+- 리뷰가 많은 제품 top5
+![image](https://github.com/user-attachments/assets/)
+
+- 리뷰가 많은 제품의 가격 top5
+![image](https://github.com/user-attachments/assets/)
+  
 
 ### 분석2 결과 및 인사이트 도출
-- (TO DO)
+- 각 가격대별로 나눈 결과
+- 전체적으로 나이키가 아디다스보다 1.5배 가량 비싼 추세를 보이며,
+- 사람들이 많이 사는 품목 top5,
+- 리뷰별 순위 top10 는 나이키가 조금 더 가격대가 높았고
+- 별점별 순위 top10은 비슷한 추이를 보였다.
+- 따라서, 가격을 신경쓴다면 아디다스를 고른다는 인사이트를 도출해낼 수 있다.
 
 
 

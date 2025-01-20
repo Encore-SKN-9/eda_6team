@@ -55,7 +55,6 @@
 
 ## 4-2. 데이터 전처리 (팀 공용 데이터)
 
-![image](https://github.com/user-attachments/assets/c2a5f894-319b-4f4b-96d8-f5be4cb7fca7)
 ![image](https://github.com/user-attachments/assets/90de427e-b57c-4a7a-9114-d6b170f05f6a)
 ![image](https://github.com/user-attachments/assets/33064dfd-5320-46b9-a6c0-91190f161cea)
 ![image](https://github.com/user-attachments/assets/5d014d0d-ff62-4553-915a-81a5db0209db)

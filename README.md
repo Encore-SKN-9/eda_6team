@@ -110,7 +110,7 @@
 ![discount_data](https://github.com/user-attachments/assets/6873393b-c102-4666-af7b-aa212a42a2b3)
 
 
-- 각 브랜드 box 할인율  
+- 각 브랜드 box plot 할인율  
 ![discount_box_data](https://github.com/user-attachments/assets/af19bede-e25f-444d-8de8-c5aa2a67fe19)
 
 

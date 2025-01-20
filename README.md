@@ -96,10 +96,9 @@
   2. 찜해놓은 게 있다면 할인율을 보고 결정한다.
      - 할인 (분석 가능)
        - adidas, nike 각 브랜드별 할인 bar 차트로 구현 완료.
-         - nike 할인 없음.
-           - Listing Price(표시 가격)과 Sale Price(세일 가격) 다른게 있음.
-           - 할인율이 적용이 안됨.
-           - ※ discount(할인) 데이터에 대한 box plot 시각화.
+         - Listing Price(표시 가격)과 Sale Price(세일 가격) 다른게 있음.
+         - nike 할인 없음. 따라서, 할인율이 적용이 안됨.
+         - List Price와 Sales Price의 차이에 따른 discount(할인) 데이터 추출 및 box plot 시각화.
 
 
 - 각 브랜드 품명 분류

@@ -136,6 +136,8 @@
 
 
 - 카운트, 가격별 총 계수
+
+
 ![count_price_data](https://github.com/user-attachments/assets/4025f13b-8cf4-4402-9a8b-c3a6d6fc8d2b)
 
 - 가격대로 범위를 나눈 카운트 수

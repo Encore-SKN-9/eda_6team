@@ -247,6 +247,8 @@
 - 아디다스 평점별 평균 리뷰수
 ![image](https://github.com/user-attachments/assets/a72e82db-509f-401c-94cd-60338aadb27b)
 
+![image](https://github.com/user-attachments/assets/6c7345c4-5fa0-4702-84e6-e28277bacc70)
+
 - 아디다스 인기순위별 제품추천 (Case 1: 남성 페르소나)
 ![image](https://github.com/user-attachments/assets/3060da22-1de2-4bdf-bdeb-4585ed45b118)
 

@@ -55,14 +55,19 @@
 
 ## 4-2. 데이터 전처리 (팀 공용 데이터)
 
+- 8개의 컬럼 확인, 모든 데이터셋에서 결측치와 이상치 없음 확인
 ![image](https://github.com/user-attachments/assets/90de427e-b57c-4a7a-9114-d6b170f05f6a)
-![image](https://github.com/user-attachments/assets/33064dfd-5320-46b9-a6c0-91190f161cea)
-![image](https://github.com/user-attachments/assets/5d014d0d-ff62-4553-915a-81a5db0209db)
+
 ![image](https://github.com/user-attachments/assets/6c5a6ba0-21b9-46c1-8d67-3c4b57e82425)
+
 ![image](https://github.com/user-attachments/assets/e3e1e831-434d-487c-a55d-36411652b4f7)
+
 ![image](https://github.com/user-attachments/assets/d14878f4-0688-4903-b631-750a1ffd5176)
+
 ![image](https://github.com/user-attachments/assets/4c4b36d6-4bba-4b67-ad8a-7c680f1532be)
+
 ![image](https://github.com/user-attachments/assets/a599f975-97b5-449f-8069-2ea4f28897ac)
+
 ![image](https://github.com/user-attachments/assets/c3407945-a1fe-4871-8ce0-c399eab2d15a)
 
 
